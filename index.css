@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    padding: 0;
+    padding-top: 140px;
+    background-color: blueviolet;
+
+}
+
+#pilih{
+    width: 50%;
+    text-align: center;
+    height: 30px;
+    margin-left: 25%;
+     margin-bottom: 10px;
+      font-family: "Abel", sans-serif;
+  font-weight:bold;
+}
+#kirim:hover{
+    background-color: orange;
+    cursor: pointer;
+    
+}
+#kirim{
+     margin-bottom: 10px;
+      font-family: "Abel", sans-serif;
+  font-weight:bold;
+    width: 100px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    margin-left: 25%;
+    
+}
+#pass{
+    width: 50%;
+    text-align: center;
+    height: 30px;
+    margin-left: 25%;
+    margin-top: 1px;
+     margin-bottom: 10px;
+      font-family: "Abel", sans-serif;
+  font-weight:bold;
+}
+#lanjut{
+    background-color: blue;
+    color: white;
+    display: none;
+    width: 100px;
+}
+.ppo{
+     margin: auto;
+    width: 60%;
+    font-family: "Abel", sans-serif;
+  font-weight:bold;
+  font-style: normal;
+    text-align: center;
+    background: linear-gradient(to left,blue,darkblue);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#web-info{
+    text-align: center;
+    width: 60%;
+    font-size: 10pt;
+    margin: auto;
+    margin-bottom: 10px;
+      font-family: "Abel", sans-serif;
+  font-weight:bold;
+  font-style: normal;
+    
+}
+#greeting{ 
+text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal
+}
+#form1{
+    display: none;
+}
+.form-nilai{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    margin: auto;
+
+    
+}
+#form{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 40vw;
+    
+    background-color: white;
+    margin: auto;
+    border-radius: 20px;
+}
